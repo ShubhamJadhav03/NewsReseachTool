@@ -22,10 +22,15 @@ ScrappyTheRobby is a fully **local AI-powered news research assistant** that hel
 
 ---
 
+<img width="1918" height="960" alt="Fianl image 2" src="https://github.com/user-attachments/assets/5f2eca3f-9a59-4f17-8a2e-0b2491b6b485" />
+
+
+---
 ## 🧑‍💻 How to Run Locally
 
-### 1. Clone the Repository
+
 ```bash
+1. Clone the Repository
 git clone https://github.com/ShubhamJadhav03/NewsReseachTool.git
 cd NewsReseachTool
 
@@ -47,8 +52,6 @@ Copy
 Edit
 streamlit run main.py
 
-
-<img width="1918" height="960" alt="Fianl image 2" src="https://github.com/user-attachments/assets/2f11c86d-fbbf-44dd-a3a6-f1610e1f892e" />
 
 🔮 Use Cases
 Research assistant for journalists and students
